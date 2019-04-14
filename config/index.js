@@ -9,7 +9,7 @@ module.exports = {
 
     // Paths
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/muli-pc-fe',
+    assetsPublicPath: '/pc-fe',
     proxyTable: {},
 
     // Various Dev Server settings
@@ -50,7 +50,7 @@ module.exports = {
     // Paths
     assetsRoot: path.resolve(__dirname, '../dist'),
     assetsSubDirectory: 'static',
-    assetsPublicPath: '/muli-pc-fe',
+    assetsPublicPath: '/pc-fe',
 
     /**
      * Source Maps
